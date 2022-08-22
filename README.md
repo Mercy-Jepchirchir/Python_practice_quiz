@@ -16,9 +16,9 @@ Mercy Jepchirchir Kemboi
 ## Return the sum of all divisors of n, not including n
     print(sum_divisors(36)) #1+2+3+4+6+9+12+18
 
-# The multiplication_table function prints the anycodings_python results of a number passed to it multiplied anycodings_python by 1 through 5
+### The multiplication_table function prints the anycodings_python results of a number passed to it multiplied anycodings_python by 1 through 5
 
-## An additional requirement is that the result is not to exceed 25, which is done with the break statement.
+### An additional requirement is that the result is not to exceed 25, which is done with the break statement.
        
         Initialize the starting
         start = 1
