@@ -1,9 +1,10 @@
-#Author
+# Author
+
 Mercy Jepchirchir Kemboi
 
-#Questions
+# Questions
 
-##returns the sum of all the divisors of a number, without including it.
+## returns the sum of all the divisors of a number, without including it.
 -A divisor is a number that divides into another without a remainder.
 
 -the first approach is to return the sum of all divisors of n, not including n
@@ -12,12 +13,12 @@ Mercy Jepchirchir Kemboi
       return sum([i for i in range(1, n)
                 if n % i == 0])
 
-##Return the sum of all divisors of n, not including n
+## Return the sum of all divisors of n, not including n
     print(sum_divisors(36)) #1+2+3+4+6+9+12+18
 
-#The multiplication_table function prints the anycodings_python results of a number passed to it multiplied anycodings_python by 1 through 5
+# The multiplication_table function prints the anycodings_python results of a number passed to it multiplied anycodings_python by 1 through 5
 
-##An additional requirement is that the result is not to exceed 25, which is done with the break statement.
+## An additional requirement is that the result is not to exceed 25, which is done with the break statement.
        
         Initialize the starting
         start = 1
